@@ -1,0 +1,5 @@
+max_concurrent_containers: 45
+max_cpu_percent: 130
+min_memory_available: 7
+
+sleep_time: 1

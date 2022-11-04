@@ -1,0 +1,27 @@
+name: smart
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - lxml
+  - pyyaml
+  - scipy
+  - sat-search
+  - ipython
+  - matplotlib
+  - gdal
+  - boto3
+  - rasterio
+  - jupyter
+  - fastkml
+  - pillow
+  - debugpy
+  - shapely
+  - geopandas
+  - pystac
+  - ipympl
+  - scikit-image
+  - ipdb
+  - tqdm
+  - fiona
